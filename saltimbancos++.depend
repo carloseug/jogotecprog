@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1574623595 source:/home/carlos/Desktop/saltimbancos++/main.cpp
+	<iostream>
+	"Game.h"
+
+1574728699 source:/home/carlos/Desktop/saltimbancos++/src/UImanager.cpp
+	"UImanager.h"
+
+1574786675 /home/carlos/Desktop/saltimbancos++/include/UImanager.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<new>
+	<string>
+	<iostream>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+
+1574565238 /home/carlos/Desktop/saltimbancos++/include/Game.h
+	"UImanager.h"
+	<iostream>
+
+1574793577 source:/home/carlos/Desktop/saltimbancos++/src/Game.cpp
+	"Game.h"
+	"Dog.h"
+	"Cat.h"
+	"Barnyard.h"
+
+1574796648 source:/home/carlos/Desktop/saltimbancos++/src/Character.cpp
+	"Character.h"
+
+1574796648 /home/carlos/Desktop/saltimbancos++/include/Character.h
+	<Entity.h>
+
+1574632507 /home/carlos/Desktop/saltimbancos++/include/Entity.h
+	"UImanager.h"
+
+1574623736 source:/home/carlos/Desktop/saltimbancos++/src/Entity.cpp
+	"Entity.h"
+
+1574563195 source:/home/carlos/Desktop/saltimbancos++/src/Enemy.cpp
+	"Enemy.h"
+
+1574563195 /home/carlos/Desktop/saltimbancos++/include/Enemy.h
+	<Character.h>
+
+1574796338 source:/home/carlos/Desktop/saltimbancos++/src/Player.cpp
+	"Player.h"
+
+1574796437 /home/carlos/Desktop/saltimbancos++/include/Player.h
+	<Character.h>
+
+1574796648 source:/home/carlos/Desktop/saltimbancos++/src/Cat.cpp
+	"Cat.h"
+
+1574796739 /home/carlos/Desktop/saltimbancos++/include/Cat.h
+	<Player.h>
+
+1574796648 source:/home/carlos/Desktop/saltimbancos++/src/Dog.cpp
+	"Dog.h"
+
+1574796727 /home/carlos/Desktop/saltimbancos++/include/Dog.h
+	<Player.h>
+
+1574972007 source:/home/carlos/Desktop/saltimbancos++/src/Barnyard.cpp
+	"Barnyard.h"
+
+1574769933 /home/carlos/Desktop/saltimbancos++/include/Barnyard.h
+	<GameMaps.h>
+	"Dog.h"
+	"Cat.h"
+
+1574793740 /home/carlos/Desktop/saltimbancos++/include/GameMaps.h
+	"Entity.h"
+
+1574639280 source:/home/carlos/Desktop/saltimbancos++/src/GameMaps.cpp
+	"GameMaps.h"
+
+1574639455 source:/home/carlos/Desktop/saltimbancos++/src/Street.cpp
+	"Street.h"
+
+1574639455 /home/carlos/Desktop/saltimbancos++/include/Street.h
+	<GameMaps.h>
+
+1574645527 source:/home/carlos/Desktop/saltimbancos++/src/Tile.cpp
+	"Tile.h"
+
+1574646970 /home/carlos/Desktop/saltimbancos++/include/Tile.h
+	<UImanager.h>
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\main.cpp
+	<iostream>
+	"Game.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\game.h
+	"UImanager.h"
+	<iostream>
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\uimanager.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<new>
+	<string>
+	<iostream>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\barnyard.cpp
+	"Barnyard.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\barnyard.h
+	<GameMaps.h>
+	"Dog.h"
+	"Cat.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\gamemaps.h
+	"Entity.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\entity.h
+	"UImanager.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\dog.h
+	<Player.h>
+
+1618698552 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\player.h
+	<Character.h>
+
+1618698552 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\character.h
+	<Entity.h>
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\cat.h
+	<Player.h>
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\cat.cpp
+	"Cat.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\character.cpp
+	"Character.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\dog.cpp
+	"Dog.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\enemy.cpp
+	"Enemy.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\enemy.h
+	<Character.h>
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\entity.cpp
+	"Entity.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\game.cpp
+	"Game.h"
+	"Dog.h"
+	"Cat.h"
+	"Barnyard.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\gamemaps.cpp
+	"GameMaps.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\player.cpp
+	"Player.h"
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\street.cpp
+	"Street.h"
+
+1618698553 c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\include\street.h
+	<GameMaps.h>
+
+1618698552 source:c:\users\carlo\desktop\cpp projects\saltimbancos++-20210417t222830z-001\saltimbancos++\src\uimanager.cpp
+	"UImanager.h"
+
